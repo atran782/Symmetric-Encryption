@@ -1,0 +1,7 @@
+Keystore
+Alias: duke
+Password: password
+
+Truststore
+Alias: dukecert
+Password: trustword
